@@ -18,7 +18,7 @@
 3. Trained model using random forest regression algorithm.
 
 ## Project 4: Coffee Chain Dashboard
-1. Created dashboard in Ms Excel to know profit distribution of different types of beverages in different part of the world.
+1. Created dashboard on MS Excel to know profit distribution of different types of beverages in different part of the world.
 2. Used Pivot table, Slicer, Timeline, mathematical functions to analyse.
 3. Dataset used -[Dataset_Coffee Chain.xlsx](https://github.com/Priyanka06yadav/mlprojects/files/13061022/Dataset_Coffee.Chain.xlsx)
 
@@ -27,6 +27,10 @@
 2. Plotted heatmaps, pie chart and bar graphs.
 3. Dataset [zomato.csv](https://github.com/Priyanka06yadav/mlprojects/files/13061064/zomato.csv)
 
+## Project 6: Profit Analysis Dashboard
+1. Analysed profit of different items belonging to categories- furniture, office supplies and technology in countries such as USA and Canada.
+2. Created a dashboard on MS Excel.
+3. Data-[Orders.xlsx](https://github.com/Priyanka06yadav/mlprojects/files/13061114/Orders.xlsx)
 
 
 
