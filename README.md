@@ -18,7 +18,10 @@
 2. Performed data cleaning.
 3. Used exploratory data analysis and feature engineering techniques.
 4. Dataset taken from Kaggle [Blackfriday train.csv](https://github.com/Priyanka06yadav/mlprojects/files/13060901/Blackfriday.train.csv)   [Black Friday test.csv](https://github.com/Priyanka06yadav/mlprojects/files/13060910/Black.Friday.test.csv)
-   
+
+## Project 4: Amazon Recommender System
+1. Built popularity based as well as item-item collaborative filtering based recommendation system to recommend products on e-commerce website Amazon.
+
 ## Project 4: Breast Cancer Analysis
 1. Used a K-means clustering algorithm in machine learning to detect breast cancer based on target attributes.
 2. Dataset -[breast cancer data.csv](https://github.com/Priyanka06yadav/mlprojects/files/13167286/breast.cancer.data.csv)
