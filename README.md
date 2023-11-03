@@ -39,27 +39,33 @@
 2. Used cosine similarity approach to figure out similar movies.
 3. Dataset -[movies.csv](https://github.com/Priyanka06yadav/mlprojects/files/13197463/movies.csv)
 
-## Project 9: House price Prediction
+## Project 9: Fake News Detection
+1. Performed feature extraction on the given dataset and detect whether the news is fake or not.
+2. Performed text Preprocessing and used various machine learning classification algorithms including Logistic Regression, Decision Tree, Gradient Boosting, and Random Forest.
+3. [True.csv.zip](https://github.com/Priyanka06yadav/mlprojects/files/13247414/True.csv.zip)
+4. [Fake.csv.zip](https://github.com/Priyanka06yadav/mlprojects/files/13247422/Fake.csv.zip)
+
+## Project 10: House price Prediction
 1. Aimed to predict sale price of houses using supervised learning
 2. Used mean and mode imputation to handle missing data and performed OneHotEncoding to deal with categorical features.
 3. Trained model using random forest regression algorithm.
 
-## Project 10: Coffee Chain Dashboard
+## Project 11: Coffee Chain Dashboard
 1. Created dashboard on MS Excel to know profit distribution of different types of beverages in different part of the world.
 2. Used Pivot table, Slicer, Timeline, mathematical functions to analyse.
 3. Dataset used -[Dataset_Coffee Chain.xlsx](https://github.com/Priyanka06yadav/mlprojects/files/13061022/Dataset_Coffee.Chain.xlsx)
 
-## Project 11: Zomato Dataset analysis
+## Project 12: Zomato Dataset analysis
 1. Performed EDA on zomato dataset to derive conclusions such as top 10 cuisines , country with maximum transactions, maximum rated restaurant, aggregate ratings and so on.
 2. Plotted heatmaps, pie chart and bar graphs.
 3. Dataset [zomato.csv](https://github.com/Priyanka06yadav/mlprojects/files/13061064/zomato.csv)
 
-## Project 12: Profit Analysis Dashboard
+## Project 13: Profit Analysis Dashboard
 1. Analysed profit of different items belonging to categories- furniture, office supplies and technology in countries such as USA and Canada.
 2. Created a dashboard on MS Excel.
 3. Data-[Orders.xlsx](https://github.com/Priyanka06yadav/mlprojects/files/13061114/Orders.xlsx)
 
-## Project 13: Wine quality Prediction
+## Project 14: Wine quality Prediction
 1. Problem statement-Prediction of quality of wine on the basis of given features.
 2. Dataset-[winequalityN.csv](https://github.com/Priyanka06yadav/mlprojects/files/13127391/winequalityN.csv)
 
